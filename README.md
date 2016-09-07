@@ -2,6 +2,12 @@
 
 Docker plugin for Vim.
 
+## Installation
+
+Using [pathogen.vim](https://github.com/tpope/vim-pathogen) in your Vim directory:
+
+    git clone https://github.com/ain/vim-docker.git bundle/vim-docker
+
 ## Usage
 
 ### Docker commands
