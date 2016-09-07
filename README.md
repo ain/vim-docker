@@ -28,3 +28,7 @@ e.g. to list all machines:
 e.g. to list all containers in current Compose project:
 
     :Dcompose ps
+
+## Licence
+
+Copyright © 2016 Ain Tohvri. Licenced under [GPL-3](https://raw.githubusercontent.com/ain/vim-docker/master/LICENSE).
