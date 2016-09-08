@@ -28,10 +28,9 @@ e.g. to list all containers:
 
         :Dmachine <command>
 
-e.g. to list all machines:
+  e.g. to list all machines:
 
-    :Dmachine ls
-
+      :Dmachine ls
 
 ### Docker Compose commands
 
