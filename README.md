@@ -20,7 +20,13 @@ e.g. to list all containers:
 
 ### Docker Machine commands
 
-    :Dmachine <command>
+- Set Docker Machine environment variables given machine name
+
+        :Denv <machine name>
+
+- Run Docker Machine command
+
+        :Dmachine <command>
 
 e.g. to list all machines:
 
